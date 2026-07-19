@@ -64,9 +64,7 @@ Before running, please set all the model paths to your local paths. The paths th
 
 - Change `/home/xxxxxxx/code/PMA` to `/your_path/PMA`.
 - Change `/mnt/clover/xxxxxxx/pre_trained/llava-v1.5-7b` to `/your_path/llava-v1.5-7b`.
-- Change `/mnt/clover/xxxxxxx/pre_trained/Internvl-chat-7b` to `/your_path/Internvl-chat-7b`.
 - Change `/mnt/clover/xxxxxxx/pre_trained/clip-vit-large-patch14-336` to `/your_path/clip-vit-large-patch14-336`.
-- Change `/mnt/clover/xxxxxxx/pre_trained/InternViT-6B-224px` to `/your_path/InternViT-6B-224px`.
 - Change `/mnt/clover/xxxxxxx/PMA_checkpoint` to `/your_path/checkpoint`.
 
 After adjusting the path, users can modify parameters like `gpu_num` based on their actual operating environment. All parameter settings are integrated into the `configs/` folder.
