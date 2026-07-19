@@ -2,7 +2,7 @@
 </p>
 <h2 align="center"> Progressive Multimodal Alignment for Continual Instruction Tuning (ACM MM2026)</a></h2>
 
-This repository contains all of our PMA code for DISCO baseline under LLaVA. We sincerely thank the help of [MCITlib](https://github.com/Ghy0501/MCITlib).
+This repository contains our PMA code for DISCO under LLaVA. We sincerely thank the help of [MCITlib](https://github.com/Ghy0501/MCITlib).
 
 ## Benchmarks
 
