@@ -35,7 +35,7 @@ huggingface-cli download openai/clip-vit-large-patch14-336 --local-dir /your_pat
 ```
 
 Note: To meet the requirements of certain methods, we need to apply additional processing to the config file in the downloaded model. The details are outlined below:
-1. add `"mm_text_select_layer": -1` and `"mm_text_tower": "/your_path/clip-vit-large-patch14-336"` to the `config.py` in your local model weight path `/your_path/llava-v1.5-7b` and `/your_path/Internvl-chat-7b`.
+1. add `"mm_text_select_layer": -1` and `"mm_text_tower": "/your_path/clip-vit-large-patch14-336"` to the `config.py` in your local model weight path `/your_path/llava-v1.5-7b`.
 2. remove `"temperature": 0.9` and `"top_p": 0.6` in the `generation_config.json` of your local model weight path.
 
 ## 🏃 How to run
@@ -66,6 +66,10 @@ Before running, please set all the model paths to your local paths. The paths th
 - Change `/mnt/clover/xxxxxxx/pre_trained/llava-v1.5-7b` to `/your_path/llava-v1.5-7b`.
 - Change `/mnt/clover/xxxxxxx/pre_trained/clip-vit-large-patch14-336` to `/your_path/clip-vit-large-patch14-336`.
 - Change `/mnt/clover/xxxxxxx/PMA_checkpoint` to `/your_path/checkpoint`.
+- Change `/mnt/clover/xxxxxxx/DCL_dataset` to `/your_path/DCL_dataset`.
+- Change `/mnt/clover/xxxxxxx/UCIT_dataset` to `/your_path/UCIT_dataset`.
+- Change `/mnt/clover/xxxxxxx/UCIT_instruction` to `/your_path/UCIT_instruction`.
+
 
 After adjusting the path, users can modify parameters like `gpu_num` based on their actual operating environment. All parameter settings are integrated into the `configs/` folder.
 

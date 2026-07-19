@@ -1,6 +1,0 @@
-{
-  "model_name": "/mnt/clover/xxxxxxx/pre_trained/Internvl-chat-7b",
-  "mm_projector": "/mnt/clover/xxxxxxx/pre_trained/Internvl-chat-7b/mm_projector.bin",
-  "vision_tower": "/mnt/clover/xxxxxxx/pre_trained/InternViT-6B-224px",
-  "clip_tower": "/mnt/clover/xxxxxxx/pre_trained/clip-vit-large-patch14-336"
-}
