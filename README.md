@@ -84,10 +84,12 @@ The program will automatically perform both training and inference.
 
 ## Citation
 
+```
 @inproceedings{zhang2026pma,
   title={Progressive Multimodal Alignment for Continual Instruction Tuning},
   author={Zhang, Duzhen and Yu, Yahan and Su, Qiaoyi and Dong, Jiahua and Zhang, Tielin},
   booktitle={Proceedings of the 34th ACM International Conference on Multimedia (ACM MM2026)},
   year={2026}
 }
+```
 
