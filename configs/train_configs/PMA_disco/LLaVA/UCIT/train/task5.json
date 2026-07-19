@@ -1,0 +1,12 @@
+{
+  "gpu_num": 4,
+  "rank": 96,
+  "expert_num": 6,
+  "previous_model": "/mnt/clover/xxxxxxx/PMA_checkpoint/UCIT/LLaVA-1.5/PMA_disco/Task4_llava_lora",
+  "output_dir": "/mnt/clover/xxxxxxx/PMA_checkpoint/UCIT/LLaVA-1.5/PMA_disco/Task5_llava_lora",
+  "epoch": 1,
+  "batch_size": 16,
+  "grad_acc": 2,
+  "lr": 0.0002,
+  "cur_task": 4
+}

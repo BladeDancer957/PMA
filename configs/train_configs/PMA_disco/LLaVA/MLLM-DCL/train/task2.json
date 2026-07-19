@@ -1,0 +1,12 @@
+{
+  "gpu_num": 4,
+  "rank": 160,
+  "expert_num": 5,
+  "previous_model": "/mnt/clover/xxxxxxx/PMA_checkpoint/MLLM-DCL/LLaVA-1.5/PMA_disco/Task1_llava_lora",
+  "output_dir": "/mnt/clover/xxxxxxx/PMA_checkpoint/MLLM-DCL/LLaVA-1.5/PMA_disco/Task2_llava_lora",
+  "epoch": 3,
+  "batch_size": 8,
+  "grad_acc": 2,
+  "lr": 2e-05,
+  "cur_task": 1
+}

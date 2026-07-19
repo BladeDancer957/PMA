@@ -1,0 +1,6 @@
+{
+  "train_path": "/mnt/clover/xxxxxxx/DCL_dataset/Sci/train.json",
+  "test_path": "/mnt/clover/xxxxxxx/DCL_dataset/Sci/test.json",
+  "train_folder": "/mnt/clover/xxxxxxx/DCL_dataset/Sci",
+  "test_folder": "/mnt/clover/xxxxxxx/DCL_dataset/Sci"
+}

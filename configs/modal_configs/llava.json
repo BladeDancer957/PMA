@@ -1,0 +1,5 @@
+{
+  "model_name": "/mnt/clover/xxxxxxx/pre_trained/llava-v1.5-7b",
+  "mm_projector": "/mnt/clover/xxxxxxx/pre_trained/llava-v1.5-7b/mm_projector.bin",
+  "vision_tower": "/mnt/clover/xxxxxxx/pre_trained/clip-vit-large-patch14-336"
+}

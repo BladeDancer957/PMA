@@ -1,0 +1,6 @@
+{
+  "train_path": "/mnt/clover/xxxxxxx/UCIT_instruction/ArxivQA/train_debug.json",
+  "test_path": "/mnt/clover/xxxxxxx/UCIT_instruction/ArxivQA/test_3000_debug.json",
+  "train_folder": "/mnt/clover/xxxxxxx/UCIT_dataset",
+  "test_folder": "/mnt/clover/xxxxxxx/UCIT_dataset"
+}

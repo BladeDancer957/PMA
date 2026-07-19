@@ -1,0 +1,7 @@
+{
+  "train_path": "/mnt/clover/xxxxxxx/UCIT_instruction/Flickr30k/train_brief_4w.json",
+  "test_path": "/mnt/clover/xxxxxxx/UCIT_instruction/Flickr30k/test_3000.json",
+  "anno_path": "/mnt/clover/xxxxxxx/UCIT_instruction/Flickr30k/val_coco_type_3000.json",
+  "train_folder": "/mnt/clover/xxxxxxx/UCIT_dataset",
+  "test_folder": "/mnt/clover/xxxxxxx/UCIT_dataset"
+}
